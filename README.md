@@ -5,6 +5,10 @@ Improved menu with many more options.
 
 Stats print while you are playing or spectating, using your chosen settings.
 
+## Commands
+- `!lj` - Enable/disable ljstats functionality
+- `!ljs` - Configure ljstats settings (any sub-command can be used (ie. `!ljbeam`, but it's easier to use `!ljs` in my opinion)
+
 ## Screenshots
 Chat stats (ez<jumptype> for 1000aa, auto<jumptype> for bhopjumps with autohop)
 <br>![Screenshot from 2025-07-04 09-42-44](https://github.com/user-attachments/assets/db4004be-9098-4ed6-b0f4-47c6866ef553)
